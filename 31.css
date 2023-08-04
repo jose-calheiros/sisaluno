@@ -1,0 +1,39 @@
+body{
+    background-color:rgb(242, 245, 248); 
+
+}
+.principal{
+display: flex;
+justify-content: center;
+    background-color: white;
+    padding: 30px;
+    border-radius: 20px;
+    margin: 25px auto;
+    width: 40%;
+    border: 5px solid rgb(105, 105, 105);
+  box-shadow: 5px 5px 5px rgb(20, 20, 20);
+  height: 500px;
+}
+input{
+    border-radius: 20px;
+    border: solid 2px black;
+    height: 20px;
+    width: 70px;
+}
+#b{
+    width: 70px;
+}
+h1{
+    text-align: center;
+    
+}
+table {
+    border-collapse:collapse;
+    width: 100%;
+  }
+  th, td {
+    padding: 8px;
+    text-align: center;
+    border-bottom: 1px solid rgb(230, 230, 230);
+  }
+

@@ -1,0 +1,119 @@
+body{
+    margin: 0;
+    background-color:rgb(242, 245, 248); 
+}
+.principal{
+    display: flex;
+    flex-direction: column;
+    margin: 25px auto;
+    width: 45%;
+    height: 500px;
+   border: solid 2px black;
+   background-color:rgb(232, 239, 245); 
+
+ 
+}
+.l1{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-left: 30px;
+}
+.l2{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-left: 30px;
+}
+.l3{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-left: 30px;
+}
+.l4{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-left: 30px;
+}
+.l5{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-left: 30px;  
+}
+input{
+    
+    border: solid 2px rgb(45, 37, 95);
+    height: 20px;
+    background-color: rgb(210, 213, 216);
+   
+
+}
+select  {
+  
+    border: solid 2px rgb(45, 37, 95);
+    height: 20px;
+    
+    background-color:rgb(210, 213, 216);
+
+}
+#nome{
+    width: 550px;
+}
+.nome{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.l1{
+    margin-top: 30px;   
+}
+.l2{
+    margin-top: 20px;   
+}
+.l3{
+    margin-top: 20px;   
+}
+#end{
+    width: 550px;
+
+}
+
+
+#dt{
+    width:250px ;
+}
+#cpf{
+    width:280px ;
+}
+
+
+h1{
+color: rgb(36, 19, 148);
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 50px;
+}
+p{
+    color: rgb(45, 37, 95);
+
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#b{
+    background-color: rgb(36, 19, 148)  ;
+    width: 100px;
+    height: 25px;
+    border: 0;
+    margin-top:10px ;   
+    border-radius: 10px;
+    color: white;
+}
+.b{
+    justify-content: center;
+display: flex;      
+
+}
+#p{
+    background-color: white;
+}

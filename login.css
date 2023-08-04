@@ -1,0 +1,122 @@
+body{
+    margin: 0;
+    background-color: rgb(252, 252, 252);
+}
+.a{
+   
+   
+    display: flex;
+    justify-content: center;
+  
+
+}
+
+.principal{
+   margin-top: 25px;
+    width: 50%;
+    height: 600px;
+    background-color: rgb(253, 254, 255);
+    display: flex;
+  justify-content: center;
+  border: 2px solid whitesmoke;
+border-radius: 50px;
+box-shadow: 5px 5px 5px rgb(216, 216, 216);
+}
+.login{
+    width: 75%;
+    height: 400px;
+    background-color: rgb(253, 254, 255);
+
+    display: flex;
+  justify-content: center;
+  margin-right: 20px;
+}
+h1{
+margin-top: 100px;
+    color: rgb(45, 37, 95);
+text-align:center ;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 50px;
+}
+input{
+    border-radius: 20px;
+    border: solid 2px rgb(45, 37, 95);
+    height: 20px;
+    width: 200px;
+    background-color: rgb(204, 217, 240);
+
+  
+}
+#b{
+    background-color: rgb(45, 37, 95);
+    width: 80px;
+    height: 25px;
+    border: 0;
+    margin-top:10px ; 
+    color: white;
+
+}
+.b{
+    justify-content: center;
+display: flex;      
+
+}
+.cpf{
+    justify-content: center;
+display: flex; 
+margin-top: 100px;
+}
+.senha{
+    justify-content: center;
+    display: flex; 
+    margin-top:0 ;
+    }
+.c{
+    justify-content: center;
+    display: flex; 
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+.h{
+
+    justify-content: start;
+    display: flex;
+    margin-left: 20px;
+   
+}
+    #v{
+      
+            background-color: rgb(66, 60, 105);
+            width: 50px;
+            height: 25px;
+            border: 0;
+            margin-top:10px ; 
+            color: white;
+     
+    }
+
+    button{
+        height: 25px;
+        width: 100px;
+        background-color: rgb(66, 60, 105);
+        border: 0px ;
+        border-radius: 5px;
+        color: white;
+    }
+
+    a{
+        text-decoration: none;
+    
+color: white;
+    }
+    .bt{
+       
+        align-items: end;
+        display: flex;
+        margin: 20px;
+        
+    }
